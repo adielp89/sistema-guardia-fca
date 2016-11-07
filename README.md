@@ -1,2 +1,4 @@
 # sistema-guardia-fca
-sistema para la guardia de FCA
+Sistema para la guardia de FCA
+
+Este sistema envía notificación por correo a todos los que corresponda 
